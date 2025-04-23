@@ -1,0 +1,29 @@
+{
+  "id": "osiris-resurrection",
+  "title": "A Morte e Ressurreição de Osíris",
+  "summary": "Seth, tomado pela inveja, mata Osíris e espalha seus pedaços pelo Egito. Ísis, com a ajuda de Néftis e Anúbis, reúne o corpo e consegue trazê-lo de volta à vida temporariamente para conceber Hórus.",
+  "fullStory": "Osíris, rei benevolente do Egito, ensinava os humanos a cultivar a terra, respeitar as leis e viver em harmonia. Seu irmão Seth, tomado pela inveja e pelo desejo de poder, planeja um assassinato cruel. Ele constrói um caixão sob medida e, durante um banquete, propõe um desafio: quem couber perfeitamente no caixão, ficará com ele. Quando Osíris entra, Seth e seus aliados trancam a tampa e o jogam no Nilo. Ísis, esposa de Osíris e deusa da magia, parte em uma longa jornada para recuperar seu corpo. Ela encontra o caixão, mas Seth, descobrindo isso, esquarteja Osíris em várias partes e espalha pelo Egito. Ísis, com a ajuda de sua irmã Néftis, localiza e reúne todos os pedaços, exceto o falo, que fora perdido no rio. Com magia poderosa, ela reconstrói o corpo e, com Anúbis, realiza os rituais funerários que dariam origem à mumificação. Ísis consegue trazer Osíris de volta à vida por tempo suficiente para conceber seu filho, Hórus. Depois disso, Osíris se torna o deus do submundo, reinando sobre os mortos. Hórus, por sua vez, crescerá para enfrentar Seth e restaurar a ordem no Egito.",
+  "characters": [
+    "osiris",
+    "isis",
+    "seth",
+    "neftis",
+    "anubis",
+    "horus"
+  ],
+  "themes": [
+    "morte",
+    "ressurreição",
+    "vingança",
+    "magia",
+    "renascimento",
+    "ordem x caos"
+  ],
+  "moral": "O amor, a união e a determinação podem superar até mesmo a morte.",
+  "sources": [
+    "Livro dos Mortos",
+    "Plutarco, 'Sobre Ísis e Osíris'",
+    "Textos das Pirâmides"
+  ],
+  "notes": "Esse mito é um dos mais importantes do panteão egípcio, base para os rituais funerários e para a crença na vida após a morte."
+}

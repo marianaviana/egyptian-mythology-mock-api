@@ -1,0 +1,16 @@
+{
+  "id": "griffin",
+  "name": "Grifo Egípcio",
+  "type": "Criatura Guardiã",
+  "description": "Ser mítico com corpo de leão e cabeça de falcão ou águia. Simboliza proteção e vigilância em arte egípcia.",
+  "symbols": [
+    "leão",
+    "asas",
+    "olhar atento"
+  ],
+  "unique_traits": {
+    "size": "Grande",
+    "behavior": "Protetor e vigilante",
+    "connection_with_protection": "Protetor de templos e lugares sagrados, símbolo de vigilância divina"
+  }
+}

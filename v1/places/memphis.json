@@ -1,0 +1,14 @@
+{
+  "id": "memphis",
+  "name": "Mênfis",
+  "type": "Capital Política e Religiosa",
+  "description": "Mênfis foi a capital do Egito durante o Império Antigo e um dos maiores centros religiosos, com o culto dedicado a Ptah, o deus criador. Mênfis representava o centro do poder político e religioso do Egito nesse período.",
+  "associatedWith": [
+    "ptah"
+  ],
+  "unique_traits": {
+    "importance": "Capital durante o Império Antigo",
+    "mythology": "Local de culto ao deus Ptah, criador do universo",
+    "location": "Próximo ao delta do Nilo, norte do Egito"
+  }
+}

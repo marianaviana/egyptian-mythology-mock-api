@@ -1,0 +1,27 @@
+{
+  "id": "taweret",
+  "name": "Taweret",
+  "role": "Deusa da Fertilidade e Proteção no Parto",
+  "description": "Figura híbrida com corpo de hipopótamo, Taweret protege grávidas e crianças recém-nascidas.",
+  "symbols": [
+    "hipopótamo",
+    "ankh",
+    "crocodilo"
+  ],
+  "fullDescription": "Taweret é uma deusa associada à fertilidade e à proteção das mulheres grávidas e das crianças recém-nascidas. Sua representação híbrida, com corpo de hipopótamo, patas de leão e cauda de crocodilo, transmite sua natureza protetora. Taweret é vista como uma guardiã da maternidade e da proteção no parto, sendo frequentemente invocada por mulheres grávidas. Ela é também associada à saúde e bem-estar das crianças.",
+  "characters": [
+    "taweret"
+  ],
+  "themes": [
+    "fertilidade",
+    "proteção",
+    "maternidade",
+    "parto"
+  ],
+  "moral": "A proteção da vida desde a gestação até o nascimento é uma dádiva divina que deve ser reverenciada.",
+  "sources": [
+    "Livro dos Mortos",
+    "Textos das Pirâmides"
+  ],
+  "notes": "Taweret é uma figura benéfica, comumente retratada em amuletos para proteção das mulheres e crianças."
+}

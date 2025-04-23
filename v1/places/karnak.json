@@ -1,0 +1,15 @@
+{
+  "id": "karnak",
+  "name": "Templo de Karnak",
+  "type": "Templo",
+  "description": "O Templo de Karnak, localizado em Tebas, é o maior complexo religioso do Egito Antigo. Dedicado principalmente a Amon-Rá, ele serviu como o centro de culto dos deuses tebanos durante muitos séculos.",
+  "associatedWith": [
+    "amun",
+    "ra"
+  ],
+  "unique_traits": {
+    "importance": "Maior complexo religioso do Egito",
+    "mythology": "Local de culto dedicado a Amon e Rá",
+    "location": "Tebas, Egito superior"
+  }
+}

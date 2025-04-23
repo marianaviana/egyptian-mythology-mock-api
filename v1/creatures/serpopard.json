@@ -1,0 +1,15 @@
+{
+  "id": "serpopard",
+  "name": "Serpopardos",
+  "type": "Criatura Mítica",
+  "description": "Serpopardos são criaturas com corpo de leopardo e pescoço de serpente, simbolizando forças descontroladas ou caóticas.",
+  "symbols": [
+    "leopardo",
+    "serpente"
+  ],
+  "unique_traits": {
+    "size": "Médio a grande",
+    "behavior": "Agitado e imprevisível",
+    "connection_with_chaos": "Representa as forças do caos e da destruição"
+  }
+}

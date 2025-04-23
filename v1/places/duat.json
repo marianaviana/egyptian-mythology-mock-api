@@ -1,0 +1,16 @@
+{
+  "id": "duat",
+  "name": "Duat",
+  "type": "Mundo Espiritual",
+  "description": "Duat é o mundo subterrâneo egípcio onde as almas dos mortos passam para serem julgadas. Este local é central na jornada espiritual após a morte, sendo o cenário do julgamento das almas e das viagens noturnas de Rá.",
+  "associatedWith": [
+    "ra",
+    "anubis",
+    "osiris"
+  ],
+  "unique_traits": {
+    "importance": "Mundo dos mortos e das almas",
+    "mythology": "Lugar de julgamento e das viagens noturnas de Rá",
+    "location": "Subterrâneo, além do mundo físico"
+  }
+}

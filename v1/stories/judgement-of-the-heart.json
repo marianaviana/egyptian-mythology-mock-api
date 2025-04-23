@@ -1,0 +1,25 @@
+{
+  "id": "judgement-of-the-heart",
+  "title": "O Julgamento do Coração",
+  "summary": "No pós-vida, o coração do falecido é pesado contra a pena da verdade de Ma'at. Se for mais leve ou igual, a alma é aceita no paraíso. Se for mais pesado, é devorada por Ammit.",
+  "fullStory": "No antigo Egito, acreditava-se que, após a morte, a alma passava por um julgamento no salão de Ma'at. Esse processo era chamado de 'Pesagem do Coração'. O coração, considerado sede da consciência e moralidade, era colocado em uma balança e pesado contra a pena da deusa Ma’at, símbolo da verdade, justiça e ordem cósmica. Anúbis, deus dos mortos, conduzia a cerimônia, enquanto Thoth, deus da sabedoria, registrava os resultados. Se o coração fosse mais leve ou igual à pena, o morto era considerado justo e recebia acesso ao Aaru, o paraíso dos campos verdes. Porém, se o coração fosse mais pesado, sinal de uma vida repleta de más ações, ele era devorado pela criatura Ammit, que possuía cabeça de crocodilo, corpo de leão e patas traseiras de hipopótamo. A alma, então, deixava de existir. Esse mito enfatiza a importância de viver de forma justa para garantir a continuidade da existência após a morte.",
+  "characters": [
+    "maat",
+    "anubis",
+    "thoth",
+    "ammit"
+  ],
+  "themes": [
+    "justiça",
+    "vida após a morte",
+    "ética",
+    "responsabilidade",
+    "verdade"
+  ],
+  "moral": "A retidão em vida define o destino da alma após a morte.",
+  "sources": [
+    "Livro dos Mortos",
+    "Textos das Pirâmides"
+  ],
+  "notes": "A cena da pesagem é uma das mais icônicas do Livro dos Mortos, especialmente no Papiro de Ani."
+}

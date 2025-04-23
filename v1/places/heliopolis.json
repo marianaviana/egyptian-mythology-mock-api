@@ -1,0 +1,15 @@
+{
+  "id": "heliopolis",
+  "name": "Heliópolis",
+  "type": "Cidade Sagrada",
+  "description": "Heliópolis foi um dos centros religiosos mais importantes do Egito Antigo, dedicado principalmente ao deus Rá, sendo também o local do mito da criação heliopolitana, que descrevia a origem do mundo e a criação dos deuses.",
+  "associatedWith": [
+    "ra",
+    "atum"
+  ],
+  "unique_traits": {
+    "importance": "Centro religioso fundamental",
+    "mythology": "Local de origem da criação do mundo",
+    "location": "Norte do Egito, perto de Mênfis"
+  }
+}

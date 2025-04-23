@@ -1,0 +1,16 @@
+{
+  "id": "ammit",
+  "name": "Ammit",
+  "type": "Devoradora de Almas",
+  "description": "Criatura com cabeça de crocodilo, tronco de leão e traseiro de hipopótamo. Devora os corações dos que falham no julgamento de Ma'at.",
+  "symbols": [
+    "crocodilo",
+    "leão",
+    "hipopótamo"
+  ],
+  "unique_traits": {
+    "size": "Grande",
+    "behavior": "Implacável e justa",
+    "connection_with_judgement": "Guardião do julgamento de Ma'at, punidora dos corações impuros"
+  }
+}

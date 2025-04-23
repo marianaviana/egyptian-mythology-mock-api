@@ -1,0 +1,15 @@
+{
+  "id": "valley-of-kings",
+  "name": "Vale dos Reis",
+  "type": "Necrópole",
+  "description": "O Vale dos Reis é uma das mais importantes necrópoles do Egito, onde muitos faraós e nobres do Império Novo foram enterrados. Seu túmulo mais famoso é o de Tutancâmon.",
+  "associatedWith": [
+    "seti-i",
+    "ramses-ii"
+  ],
+  "unique_traits": {
+    "importance": "Local de sepultamento real",
+    "mythology": "Lugar de descanso final dos faraós e dos escolhidos por Osíris",
+    "location": "Oeste do Nilo, na região de Tebas"
+  }
+}

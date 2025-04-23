@@ -1,0 +1,9 @@
+{
+  "id": "crook-and-flail",
+  "name": "Cajado e Chibata",
+  "meaning": "Realeza e liderança",
+  "description": "O cajado (heka) e a chibata (nekhakha) são símbolos da autoridade real no Egito Antigo. O cajado representa o pastor, indicando cuidado e liderança, enquanto a chibata representa disciplina e poder. Ambos estavam cruzados sobre o peito de faraós e deuses como Osíris.",
+  "associatedWith": [
+    "osiris"
+  ]
+}

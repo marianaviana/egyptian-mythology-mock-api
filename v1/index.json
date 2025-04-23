@@ -7,35 +7,35 @@
   "resources": {
     "gods": {
       "description": "Collection of Egyptian deities",
-      "count": 12,
+      "count": 15,
       "listEndpoint": "/gods/gods.json",
       "itemEndpoint": "/gods/{id}.json",
       "exampleItem": "/gods/ra.json"
     },
     "creatures": {
       "description": "Mythological creatures from Egyptian lore",
-      "count": 8,
+      "count": 10,
       "listEndpoint": "/creatures/creatures.json",
       "itemEndpoint": "/creatures/{id}.json",
       "exampleItem": "/creatures/ammit.json"
     },
     "symbols": {
       "description": "Sacred symbols and their meanings",
-      "count": 15,
+      "count": 10,
       "listEndpoint": "/symbols/symbols.json",
       "itemEndpoint": "/symbols/{id}.json",
       "exampleItem": "/symbols/ankh.json"
     },
     "stories": {
       "description": "Ancient Egyptian myths and legends",
-      "count": 5,
+      "count": 10,
       "listEndpoint": "/stories/stories.json",
       "itemEndpoint": "/stories/{id}.json",
       "exampleItem": "/stories/osiris-isis.json"
     },
     "places": {
       "description": "Sacred sites and mythological locations",
-      "count": 7,
+      "count": 10,
       "listEndpoint": "/places/places.json",
       "itemEndpoint": "/places/{id}.json",
       "exampleItem": "/places/duat.json"

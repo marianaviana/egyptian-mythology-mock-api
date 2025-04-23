@@ -2,7 +2,7 @@
   "apiVersion": "1.0.0",
   "version": "v1",
   "status": "stable",
-  "lastUpdated": "2025-04-22T00:00:00Z",
+  "lastUpdated": "2025-04-23",
   "baseUrl": "https://mariviana.dev/egyptian-mythology-mock-api/v1",
   "resources": {
     "gods": {

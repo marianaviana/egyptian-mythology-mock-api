@@ -1,0 +1,27 @@
+{
+  "id": "neftis",
+  "name": "Néftis",
+  "role": "Deusa dos Rituais Fúnebres",
+  "description": "Irmã de Ísis, associada à noite e à proteção dos mortos. Atua ao lado de Anúbis nos ritos fúnebres.",
+  "symbols": [
+    "casa sobre cesta",
+    "asas protetoras",
+    "chama"
+  ],
+  "fullDescription": "Néftis é a deusa dos rituais fúnebres e uma das figuras mais importantes no culto dos mortos. Irmã de Ísis e esposa de Seth, ela é associada à proteção dos mortos, atuando ao lado de Anúbis durante os rituais de mumificação e julgamento das almas. Néftis é simbolizada por um hieróglifo que representa uma casa sobre uma cesta, e por suas asas protetoras, que garantem segurança e paz para os espíritos dos falecidos.",
+  "characters": [
+    "neftis"
+  ],
+  "themes": [
+    "morte",
+    "proteção",
+    "rituais fúnebres",
+    "noite"
+  ],
+  "moral": "A morte não é o fim, mas um rito de passagem para a continuidade da vida eterna, com a proteção dos entes queridos.",
+  "sources": [
+    "Livro dos Mortos",
+    "Textos das Pirâmides"
+  ],
+  "notes": "Néftis tem um papel crucial no conforto e proteção dos mortos, sendo uma figura importante em todos os rituais funerários egípcios."
+}

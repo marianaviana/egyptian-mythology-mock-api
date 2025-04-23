@@ -1,0 +1,27 @@
+{
+  "id": "khnum",
+  "name": "Khnum",
+  "role": "Deus da Criação e do Nilo",
+  "description": "Khnum modela os humanos em seu torno de oleiro e controla as águas do Nilo. Tem cabeça de carneiro.",
+  "symbols": [
+    "torno de oleiro",
+    "carneiro",
+    "jarro d'água"
+  ],
+  "fullDescription": "Khnum é o deus da criação, especialmente associado à formação dos humanos e à água do Nilo. Ele é retratado como um deus com cabeça de carneiro e é considerado o criador dos seres humanos, modelando-os a partir do barro no torno de oleiro. Khnum também é responsável pelo controle das águas do Nilo, sendo fundamental para a agricultura e a sobrevivência no Egito Antigo. Ele é um deus associado à fertilidade e à criação da vida.",
+  "characters": [
+    "khnum"
+  ],
+  "themes": [
+    "criação",
+    "fertilidade",
+    "água",
+    "renascimento"
+  ],
+  "moral": "A criação da vida é um processo divino que requer cuidado e equilíbrio, como o trabalho de um oleiro com sua argila.",
+  "sources": [
+    "Textos das Pirâmides",
+    "Livro dos Mortos"
+  ],
+  "notes": "Khnum é um deus essencial para a vida no Egito Antigo, não apenas como criador, mas também como governante das águas que garantiam a fertilidade do solo."
+}

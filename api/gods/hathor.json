@@ -1,0 +1,27 @@
+{
+  "id": "hathor",
+  "name": "Hathor",
+  "role": "Deusa do Amor e Música",
+  "description": "Deusa da beleza, maternidade e dança, Hathor é celebrada em festas e simboliza a alegria e fertilidade.",
+  "symbols": [
+    "vaca sagrada",
+    "espelho",
+    "colar menat"
+  ],
+  "fullDescription": "Hathor é a deusa do amor, beleza, música e dança. Ela é celebrada por sua capacidade de trazer alegria e fertilidade, sendo associada ao prazer, à festa e ao renascimento. Representada muitas vezes como uma vaca sagrada ou como uma mulher com cabeça de vaca, Hathor é a mãe e protetora dos faraós, além de ser uma das principais deusas da música e da dança no Egito. Suas celebrações eram marcadas por festas e rituais de alegria.",
+  "characters": [
+    "hathor"
+  ],
+  "themes": [
+    "amor",
+    "fertilidade",
+    "música",
+    "dança"
+  ],
+  "moral": "A felicidade e a harmonia vêm do equilíbrio entre o amor, a música e o cuidado com os outros.",
+  "sources": [
+    "Livro dos Mortos",
+    "Textos das Pirâmides"
+  ],
+  "notes": "Hathor também foi vista como uma deusa do além, que recebia as almas dos mortos com amor e cuidado."
+}

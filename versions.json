@@ -1,7 +1,43 @@
-[
-  {
-    "version": "v1",
-    "status": "stable",
-    "url": "/v1/"
+{
+  "availableVersions": [
+    {
+      "version": "v1",
+      "status": "stable",
+      "releaseDate": "2025-04-23",
+      "docsUrl": "https://mariviana.dev/egyptian-mythology-mock-api/",
+      "description": "Initial release with core mythology entities",
+      "endpoints": {
+        "baseUrl": "https://mariviana.dev/egyptian-mythology-mock-api/v1",
+        "resources": [
+          "gods",
+          "creatures",
+          "symbols",
+          "stories",
+          "places"
+        ]
+      },
+      "plannedDeprecation": null
+    },
+    {
+      "version": "v2",
+      "status": "planned",
+      "releaseDate": "2025-06-01",
+      "description": "Upcoming version with images and extended relationships",
+      "features": [
+        "Entity images support",
+        "Extended relationship mapping",
+        "Multi-language support"
+      ],
+      "roadmapUrl": "https://github.com/marianaviana/egyptian-mythology-mock-api/issues/1"
+    }
+  ],
+  "latestStableVersion": "v1",
+  "upgradePolicy": {
+    "supportDuration": "12 months after new stable release",
+    "deprecationNotice": "3 months before version sunset"
+  },
+  "contact": {
+    "maintainer": "Mariana Viana",
+    "issues": "https://github.com/marianaviana/egyptian-mythology-mock-api/issues"
   }
-]
+}

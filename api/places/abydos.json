@@ -1,0 +1,14 @@
+{
+  "id": "abydos",
+  "name": "Abydos",
+  "type": "Cidade Sagrada",
+  "description": "Abydos foi considerada uma das cidades mais sagradas do Egito, sendo associada ao deus Osíris. Era também um importante centro de culto funerário, onde muitos faraós do Império Antigo foram enterrados.",
+  "associatedWith": [
+    "osiris"
+  ],
+  "unique_traits": {
+    "importance": "Local de sepultamento de Osíris",
+    "mythology": "Associação com o renascimento e a vida após a morte",
+    "location": "Na região do deserto ocidental, norte do Egito"
+  }
+}

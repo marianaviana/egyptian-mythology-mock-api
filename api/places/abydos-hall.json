@@ -1,0 +1,14 @@
+{
+  "id": "abydos-hall",
+  "name": "Salão de Abydos",
+  "type": "Estrutura Mística",
+  "description": "O Salão de Abydos contém a famosa Lista Real de faraós, além de inscrições misteriosas que têm sido objeto de estudo e interpretação. Alguns acreditam que ele contém significados místicos, ocultos ou anacrônicos.",
+  "associatedWith": [
+    "osiris"
+  ],
+  "unique_traits": {
+    "importance": "Estrutura mística e histórica",
+    "mythology": "Associado ao culto a Osíris e à ideia de renascimento",
+    "location": "Abydos, Egito superior"
+  }
+}

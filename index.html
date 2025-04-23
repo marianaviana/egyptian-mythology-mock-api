@@ -4,26 +4,72 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>API de Mitologia Egípcia</title>
+  <title>Egyptian Mythology API</title>
   <link rel="stylesheet" href="https://mariviana.dev/egyptian-mythology-mock-api/assets/css/style.css">
 </head>
 
 <body>
-  <h1>API de Mitologia Egípcia</h1>
-  <p>Bem-vindo à API de mitologia egípcia! Aqui você encontra dados sobre deuses, criaturas, símbolos e muito mais.</p>
-
-  <h2>Versões disponíveis</h2>
-  <div class="version">
-    <h3>v1 (Atual)</h3>
-    <p>Endpoint base: <code>/v1/</code></p>
+  <h1>Egyptian Mythology API</h1>
+  <p>Welcome to the Egyptian Mythology API! Here you will find information about gods, creatures, symbols and much more..</p>
+  <div class="select-dropdown">
+    <select name="select" id="version">
+      <option value="v1" selected>v1 (Current)</option>
+      <option value="v2" selected>v2 (Planned)</option>
+    </select>
+  </div>
+  <div class="version v1">
+    <p>Endpoint base: <code>https://mariviana.dev/egyptian-mythology-mock-api/v1</code></p>
+    <h3>Endpoints:</h3>
+    <h4>Gods</h4>
     <ul>
-      <li><a href="/v1/gods/">/gods</a> – Lista de deuses</li>
-      <li><a href="/v1/creatures/">/creatures</a> – Lista de criaturas</li>
-      <li><a href="/v1/symbols/">/symbols</a> – Lista de símbolos</li>
-      <li><a href="/v1/stories/">/stories</a> – Lista de mitos</li>
-      <li><a href="/v1/places/">/places</a> – Lista de lugares</li>
+      <li>List: <code>/gods/gods.json</code></li>
+      <li>Item: <code>/gods/{id}.json</code></li>
+      <li>Example Item <code>/gods/ra.json</code></li>
+    </ul>
+    <h4>Creatures</h4>
+    <ul>
+      <li>List: <code>/creatures/creatures.json</code></li>
+      <li>Item Endpoint: <code>/creatures/{id}.json</code></li>
+      <li>Example Item <code>/creatures/ammit.json</code></li>
+    </ul>
+    <h4>Symbols</h4>
+    <ul>
+      <li>List: <code>/symbols/symbols.json</code></li>
+      <li>Item Endpoint: <code>/symbols/{id}.json</code></li>
+      <li>Example Item <code>/symbols/ammit.json</code></li>
+    </ul>
+    <h4>Stories</h4>
+    <ul>
+      <li>List: <code>/stories/stories.json</code></li>
+      <li>Item Endpoint: <code>/stories/{id}.json</code></li>
+      <li>Example Item <code>/stories/ammit.json</code></li>
+    </ul>
+    <h4>Places</h4>
+    <ul>
+      <li>List: <code>/places/places.json</code></li>
+      <li>Item Endpoint: <code>/places/{id}.json</code></li>
+      <li>Example Item <code>/places/ammit.json</code></li>
     </ul>
   </div>
+
+  <div class="version v2">
+    <p><b>Status:</b>Planned</p>
+    <h2></h2>
+    <h4>Infos:</h4>
+    <ul>
+      <li>Release Date: <code>2025-06-01</code></li>
+      <li>description: <code>Upcoming version with images and extended relationships</code></li>
+    </ul>
+    <h4>Features</h4>
+    <ul>
+      <li>Entity images support</li>
+      <li>Extended relationship mapping</li>
+      <li>Multi-language support</li>
+    </ul>
+    <p>Roadmap Url: <code>https://github.com/marianaviana/egyptian-mythology-mock-api/issues/1</code></p>
+    → <a href="https://github.com/marianaviana/egyptian-mythology-mock-api/issues/1" target="_blank">Acessar Roadmap</a>
+  </div>
+  <script src="assets/js/script.js"></script>
 </body>
 
 </html>

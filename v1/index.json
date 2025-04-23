@@ -1,0 +1,49 @@
+{
+  "apiVersion": "1.0.0",
+  "version": "v1",
+  "status": "stable",
+  "lastUpdated": "2025-04-22T00:00:00Z",
+  "baseUrl": "https://mariviana.dev/egyptian-mythology-mock-api/v1",
+  "resources": {
+    "gods": {
+      "description": "Collection of Egyptian deities",
+      "count": 12,
+      "listEndpoint": "/gods/gods.json",
+      "itemEndpoint": "/gods/{id}.json",
+      "exampleItem": "/gods/ra.json"
+    },
+    "creatures": {
+      "description": "Mythological creatures from Egyptian lore",
+      "count": 8,
+      "listEndpoint": "/creatures/creatures.json",
+      "itemEndpoint": "/creatures/{id}.json",
+      "exampleItem": "/creatures/ammit.json"
+    },
+    "symbols": {
+      "description": "Sacred symbols and their meanings",
+      "count": 15,
+      "listEndpoint": "/symbols/symbols.json",
+      "itemEndpoint": "/symbols/{id}.json",
+      "exampleItem": "/symbols/ankh.json"
+    },
+    "stories": {
+      "description": "Ancient Egyptian myths and legends",
+      "count": 5,
+      "listEndpoint": "/stories/stories.json",
+      "itemEndpoint": "/stories/{id}.json",
+      "exampleItem": "/stories/osiris-isis.json"
+    },
+    "places": {
+      "description": "Sacred sites and mythological locations",
+      "count": 7,
+      "listEndpoint": "/places/places.json",
+      "itemEndpoint": "/places/{id}.json",
+      "exampleItem": "/places/duat.json"
+    }
+  },
+  "links": {
+    "documentation": "https://github.com/marianaviana/egyptian-mythology-mock-api/blob/main/README.md",
+    "license": "https://github.com/marianaviana/egyptian-mythology-mock-api/blob/main/LICENSE",
+    "repository": "https://github.com/marianaviana/egyptian-mythology-mock-api"
+  }
+}

@@ -12,8 +12,8 @@
   ```
 
   ## **Special Files**:
-    - `index.json`: Map of all resources
-    - `versions.json`: Version control
+  - `index.json`: Map of all resources
+  - `versions.json`: Version control
 
 
   ## Resources v1:
@@ -108,7 +108,7 @@
   │   │   ├── script.js
   ├── versions.json
   ├── CHANGELOG.md
-  ├── LICENSE.md
+  ├── LICENSE
   ├── README.md
   └── index.html
   ```
@@ -122,4 +122,4 @@
   - [Official Documentation](https://mariviana.dev/egyptian-mythology-mock-api/)
 
   ## License
-  - [MIT]([LICENSE](https://github.com/marianaviana/egyptian-mythology-mock-api/blob/main/LICENSE)) © [Mariana Viana](https://github.com/marianaviana/)
+  - [MIT](https://github.com/marianaviana/egyptian-mythology-mock-api/blob/main/LICENSE) © [Mariana Viana](https://github.com/marianaviana/)

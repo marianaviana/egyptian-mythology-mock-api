@@ -1,0 +1,16 @@
+{
+  "id": "bennu",
+  "name": "Bennu",
+  "type": "Pássaro Sagrado",
+  "description": "Associado à criação e à ressurreição, Bennu é semelhante à fênix e símbolo da renovação do ciclo da vida.",
+  "symbols": [
+    "garça",
+    "sol nascente",
+    "renascimento"
+  ],
+  "unique_traits": {
+    "size": "Médio",
+    "behavior": "Renovador e simboliza o ciclo da vida",
+    "connection_with_creation": "Fonte de renascimento e regeneração, com laços com o sol nascente"
+  }
+}

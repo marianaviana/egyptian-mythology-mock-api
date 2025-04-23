@@ -1,0 +1,16 @@
+{
+  "id": "escorpiao",
+  "name": "Escorpião",
+  "type": "Criatura Mortal",
+  "description": "O escorpião, símbolo de perigo e morte, aparece em várias mitologias egípcias, frequentemente associado ao julgamento e punição dos maus.",
+  "symbols": [
+    "veneno",
+    "morte",
+    "proteção"
+  ],
+  "unique_traits": {
+    "size": "Pequeno",
+    "behavior": "Letal e vicioso",
+    "connection_with_judgement": "Associa-se ao julgamento dos mortos e à proteção contra forças malignas"
+  }
+}

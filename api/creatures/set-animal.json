@@ -1,0 +1,16 @@
+{
+  "id": "set-animal",
+  "name": "Animal de Seth",
+  "type": "Criatura Divina",
+  "description": "Animal misterioso com orelhas pontudas e corpo híbrido. Representa a força caótica do deus Seth.",
+  "symbols": [
+    "orelha curva",
+    "cauda ereta",
+    "força selvagem"
+  ],
+  "unique_traits": {
+    "size": "Médio a grande",
+    "behavior": "Caótico e destruidor",
+    "connection_with_seth": "Representante da força destrutiva e imprevisível do deus Seth"
+  }
+}

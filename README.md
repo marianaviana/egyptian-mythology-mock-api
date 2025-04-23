@@ -1,7 +1,9 @@
   # 𓁶 Egyptian Mythology Mock API
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![API Status](https://img.shields.io/badge/API%20Status-Stable-%2344AF37)](https://mariviana.dev/egyptian-mythology-mock-api/v1)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/marianaviana/egyptian-mythology-mock-api)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/marianaviana/egyptian-mythology-mock-api)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   A free mock API for Egyptian mythology data, perfect for developers building educational apps, games, or cultural projects. Here you will find information about gods, creatures, symbols and much more...
 

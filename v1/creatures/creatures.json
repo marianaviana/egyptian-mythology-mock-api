@@ -35,11 +35,15 @@
     "symbols": ["leão", "asas", "olhar atento"]
   },
   {
-    "id": "uakhedu",
-    "name": "Uakhedu",
-    "type": "Ser do Submundo",
-    "description": "Criaturas perigosas que habitam o submundo e tentam impedir a jornada dos mortos em direção ao julgamento final.",
-    "symbols": ["submundo", "monstros", "barreiras"]
+    "id": "mehen",
+    "name": "Mehen",
+    "type": "Ser Mitológico",
+    "description": "Serpente divina que protege a barca solar de Rá durante sua jornada noturna pelo submundo.",
+    "symbols": [
+      "proteção",
+      "ciclo solar",
+      "submundo"
+    ]
   },
   {
     "id": "sphinx",

@@ -1,0 +1,16 @@
+{
+  "id": "mehen",
+  "name": "Mehen",
+  "type": "Ser Mitológico",
+  "description": "Serpente divina que protege a barca solar de Rá durante sua jornada noturna pelo submundo.",
+  "symbols": [
+    "proteção",
+    "ciclo solar",
+    "submundo"
+  ],
+  "unique_traits": {
+    "size": "Enorme, serpente que pode envolver a barca solar",
+    "behavior": "Protetora e vigilante",
+    "connection_with_death": "Guarda e guia da barca de Rá na travessia do mundo inferior"
+  }
+}

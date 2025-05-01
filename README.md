@@ -7,6 +7,8 @@
 
   A free mock API for Egyptian mythology data, perfect for developers building educational apps, games, or cultural projects. Here you will find information about gods, creatures, symbols and much more...
 
+  > Even the oldest papyri were static — but their wisdom spanned millennia.
+
   Current Endpoint Base:
 
   ```bash
